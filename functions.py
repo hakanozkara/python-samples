@@ -23,3 +23,14 @@ print("Added all students...")
 print("Students:")
 print_student()
 print("Total student count: {0}".format(len(students)))
+
+# using **kwargs
+print("Using **kwargs...")
+
+
+def var_args(name, **kwargs):
+    print(name)
+    print(kwargs["description"], kwargs["feedback"])
+
+
+var_args("Hakan", description="Loves Python", feedback=None)
