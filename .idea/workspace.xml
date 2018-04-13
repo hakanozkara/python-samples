@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9f1250b9-c136-4d44-b869-2ea54274fca9" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/dictionaries_loops_and_exceptions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lists_if_statements_and_other_goodies.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/PythonSamples.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PythonSamples.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functions.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/venv/" />
@@ -18,20 +15,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="dictionaries_loops_and_exceptions.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dictionaries_loops_and_exceptions.py">
+      <file leaf-file-name="functions.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/functions.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="464">
-              <caret line="23" selection-start-line="23" selection-end-line="23" />
+            <state relative-caret-position="294">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="lists_if_statements_and_other_goodies.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/lists_if_statements_and_other_goodies.py">
+      <file leaf-file-name="dictionaries_loops_and_exceptions.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dictionaries_loops_and_exceptions.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="294">
-              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+            <state relative-caret-position="483">
+              <caret line="23" selection-start-line="23" selection-end-line="23" />
             </state>
           </provider>
         </entry>
@@ -53,6 +50,7 @@
       <list>
         <option value="$PROJECT_DIR$/dictionaries_loops_and_exceptions.py" />
         <option value="$PROJECT_DIR$/lists_if_statements_and_other_goodies.py" />
+        <option value="$PROJECT_DIR$/functions.py" />
       </list>
     </option>
   </component>
@@ -77,6 +75,11 @@
               <item name="python-samples" type="b2602c69:ProjectViewProjectNode" />
               <item name="python-samples" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="python-samples" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python-samples" type="462c0819:PsiDirectoryNode" />
+              <item name="venv" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -100,7 +103,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.lists_if_statements_and_other_goodies">
+  <component name="RunManager" selected="Python.functions">
     <configuration name="dictionaries_loops_and_exceptions" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonSamples" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -114,6 +117,24 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dictionaries_loops_and_exceptions.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="functions" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonSamples" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/functions.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -140,9 +161,11 @@
     <list>
       <item itemvalue="Python.dictionaries_loops_and_exceptions" />
       <item itemvalue="Python.lists_if_statements_and_other_goodies" />
+      <item itemvalue="Python.functions" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.functions" />
         <item itemvalue="Python.lists_if_statements_and_other_goodies" />
         <item itemvalue="Python.dictionaries_loops_and_exceptions" />
       </list>
@@ -188,14 +211,21 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/lists_if_statements_and_other_goodies.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/dictionaries_loops_and_exceptions.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="464">
+        <state relative-caret-position="483">
           <caret line="23" selection-start-line="23" selection-end-line="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lists_if_statements_and_other_goodies.py">
+    <entry file="file://$PROJECT_DIR$/functions.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="294">
           <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
